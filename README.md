@@ -8,3 +8,7 @@ PacMan should begin moving to the right until it detects the right bound of the 
 
 ### **Usage**
 To view PacMan, download all files into a folder and drag the index.html into a web browser.
+
+### **Sample**
+
+![Pac Man cruising right and left while eating!](/ 
