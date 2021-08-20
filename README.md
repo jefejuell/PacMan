@@ -11,4 +11,4 @@ To view PacMan, download all files into a folder and drag the index.html into a 
 
 ### **Sample**
 
-![PacMan cruising right and left while eating!](https://github.com/jefejuell/PacMan/tree/main/images "PacMan cruising and eating!") 
+![PacMan cruising right and left while eating](/images/PacMan1.png "PacMan cruising and eating!")(https://github.com/jefejuell/jefejuell.github.io/blob/main/images/PacMan1.png)
